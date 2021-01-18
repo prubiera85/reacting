@@ -1,0 +1,84 @@
+/*
+    OVERRIDES FILE
+    original file: mdc-light-indigo theme
+*/
+
+// Main font override
+
+:root {
+  --font-family: Gudea, Roboto, Helvetica Neue Light, Helvetica Neue, Helvetica,
+    Arial, Lucida Grande, sans-serif;
+}
+
+/* Gudea Regular */
+@font-face {
+  font-family: "Gudea";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Gudea"), local("Gudea"),
+    url("./fonts/gudea-regular.ttf") format("ttf");
+}
+/* Gudea Italic */
+@font-face {
+  font-family: "Gudea";
+  font-style: italic;
+  /* font-weight: 500; */
+  src: local("Gudea Italic"), local("Gudea-Italic"),
+    url("./fonts/gudea-italic.ttf") format("ttf");
+}
+/* Gudea Bold */
+@font-face {
+  font-family: "Gudea";
+  font-style: bold;
+  font-weight: 500;
+  src: local("Gudea Bold"), local("Gudea-Bold"),
+    url("./fonts/gudea-bold.ttf") format("ttf");
+}
+
+/* Gudea Bold */
+@font-face {
+  font-family: "Gudea";
+  font-style: bold;
+  font-weight: 700;
+  src: local("Gudea Bold"), local("Gudea-Bold"),
+    url("./fonts/gudea-bold.ttf") format("ttf");
+}
+
+.p-component {
+  font-family: Gudea, Roboto, Helvetica Neue Light, Helvetica Neue, Helvetica,
+    Arial, Lucida Grande, sans-serif;
+}
+
+.p-link {
+  font-family: Gudea, Roboto, Helvetica Neue Light, Helvetica Neue, Helvetica,
+    Arial, Lucida Grande, sans-serif;
+}
+
+.p-autocomplete
+  .p-autocomplete-multiple-container
+  .p-autocomplete-input-token
+  input {
+  font-family: Gudea, Roboto, Helvetica Neue Light, Helvetica Neue, Helvetica,
+    Arial, Lucida Grande, sans-serif;
+}
+
+.p-chips .p-chips-multiple-container .p-chips-input-token input {
+  font-family: Gudea, Roboto, Helvetica Neue Light, Helvetica Neue, Helvetica,
+    Arial, Lucida Grande, sans-serif;
+}
+
+.p-inputtext {
+  font-family: Gudea, Roboto, Helvetica Neue Light, Helvetica Neue, Helvetica,
+    Arial, Lucida Grande, sans-serif;
+}
+
+.p-terminal .p-terminal-input {
+  font-family: Gudea, Roboto, Helvetica Neue Light, Helvetica Neue, Helvetica,
+    Arial, Lucida Grande, sans-serif;
+}
+
+// Other overrides
+
+html {
+  font-size: 14px;
+}

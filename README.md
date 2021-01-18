@@ -1,8 +1,7 @@
-# 
-# <center><b>REACTING</b></center>
+# REACTING
 <br />
 
-# Deployment
+## Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
@@ -10,29 +9,23 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 Ver el tutorial de platzi aqui: [https://platzi.com/tutoriales/1548-react/4065-guia-para-usar-github-pages-en-tus-proyectos-de-reactjs/](https://platzi.com/tutoriales/1548-react/4065-guia-para-usar-github-pages-en-tus-proyectos-de-reactjs/)
 
-<br />
-<br />
-
-# Dependencias
+## Dependencias
 
 - gh-pages
 - node-sass
 
 <br />
-<br />
 
-# Learn More
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-<br />
-<br />
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
